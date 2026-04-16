@@ -1,0 +1,10 @@
+1. Node.js is a javascript runtime env. built on chrome's V8 js engine.
+
+2. Nodejs is a cross platform, open source js runtime env. that can run on windows, macOs, linux, unix etc.
+It executes js code outisde of the browser.
+
+3. It has an event driven architecture capable of async I/O.
+
+4. It's developed by Ryan Dahl in 2009.
+
+5. 
