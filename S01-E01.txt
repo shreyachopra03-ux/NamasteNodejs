@@ -7,4 +7,4 @@ It executes js code outisde of the browser.
 
 4. It's developed by Ryan Dahl in 2009.
 
-5. 
+5. Currently, Nodejs is maintained by OpenJs foundation.
